@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "835067127390",
+    "project_id": "nestjs-17a67",
+    "storage_bucket": "nestjs-17a67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835067127390:android:fc0b1999c33b3b9db1b6cf",
+        "android_client_info": {
+          "package_name": "com.notificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835067127390-8aa6tnbrt732ehqo29089i20fmi54l61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFiiPoFRxujacqwjfCY1Mmc1moxECdV38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835067127390-8aa6tnbrt732ehqo29089i20fmi54l61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
